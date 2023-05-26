@@ -2,7 +2,7 @@
 - 👀 I’m interested in IOT
 - 🌱 I’m currently learning EET
 - 💞️ I’m looking to collaborate on Robotics Project
-- 📫 How to reach me twitter.com/AntonySule
+- 📫 How to reach me https://twitter.com/AntonySule
 
 <!---
 mwakee1/mwakee1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
